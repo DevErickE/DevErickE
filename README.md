@@ -23,10 +23,11 @@
 ### 🌱 Sempre Evoluindo!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Erick's GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub de Erick" width="450"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" alt="Erick's Streak Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical&locale=pt-br" alt="Dias Consecutivos de Contribuição de Erick" width="450"/>
 </p>
+
 
 ---
 
