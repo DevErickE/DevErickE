@@ -44,4 +44,10 @@
 
 ---
 
+## 🌐 **Link para Acesso**
+
+👉 [meu Portifólio!](https://devericke.github.io/Portifolio/)
+
+---
+
 ### ✨ **"A cada dia um novo aprendizado, um novo desafio!"** ✨
