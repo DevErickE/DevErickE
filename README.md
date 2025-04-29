@@ -47,7 +47,7 @@
 ## 🌐 **Link para Acesso**
 
 
-👉 [meu Portifólio!](https://github.com/DevErickE/Portifolio)
+👉 [meu Portifólio!](https://devericke.github.io/Portifolio/)
 
 ---
 
